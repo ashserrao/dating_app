@@ -24,4 +24,4 @@ namespace API
                 });
     }
 }
-//011 Creating the database using Entity Framework Code first migrations
+//002 Creating the Angular application
